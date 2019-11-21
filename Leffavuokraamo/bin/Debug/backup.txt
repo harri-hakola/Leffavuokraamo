@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfVuokraElokuva xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VuokraElokuva>
+    <Id>[1]</Id>
+    <Nimi>John Wick 3</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Toiminta</Genre>
+    <Raja>K-16</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[2]</Id>
+    <Nimi>Men In Black:International</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Toiminta/seikkailu</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[3]</Id>
+    <Nimi>Green Book</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Draama</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[4]</Id>
+    <Nimi>Aladdin</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Toiminta/seikkailu</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[5]</Id>
+    <Nimi>Rocketman</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Draama</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[6]</Id>
+    <Nimi>Avengers:Endgame</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Toiminta/seikkailu</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[7]</Id>
+    <Nimi>Annabelle Comes Home</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Kauhu</Genre>
+    <Raja>K-16</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[8]</Id>
+    <Nimi>The Secret Life Of Pets 2</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Animaatio</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[9]</Id>
+    <Nimi>X-Men:Dark Phoenix</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Toiminta/seikkailu</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+  <VuokraElokuva>
+    <Id>[10]</Id>
+    <Nimi>Godzilla 2: King Of Monsters</Nimi>
+    <Vuosi>2019</Vuosi>
+    <Genre>Toiminta/seikkailu</Genre>
+    <Raja>K-12</Raja>
+    <Vuokrattavissa>true</Vuokrattavissa>
+  </VuokraElokuva>
+</ArrayOfVuokraElokuva>
