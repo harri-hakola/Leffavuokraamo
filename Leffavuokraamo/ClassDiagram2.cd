@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Leffavuokraamo.Luokat.Elokuva" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCoAAAAKAAAAAAAAYAAAACAEAAAABgAAAAAAAEAgA=</HashCode>
+      <FileName>Luokat\Elokuva.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Leffavuokraamo.Luokat.LeffaVuokraamo">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAA=</HashCode>
+      <FileName>Luokat\LeffaVuokraamo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="vuokraElokuvat" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Leffavuokraamo.Luokat.VuokraElokuva" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAgAAAAAAAQAAA=</HashCode>
+      <FileName>Luokat\VuokraElokuva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leffavuokraamo.Program" Collapsed="true">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Leffavuokraamo.Interfacet.IElokuva">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Interfacet\IElokuva.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
