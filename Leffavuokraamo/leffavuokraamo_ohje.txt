@@ -1,0 +1,16 @@
+Leffavuokraamo:
+
+Kun ohjelma k‰ynnistet‰‰n, ohjelma lukee \bin\debug\vuokraelokuvat.txt tiedoston. 
+Tekstitiedoston datasta luodaan VuokraElokuva oliot ja ne lis‰t‰‰n vuokraElokuvat-listaan. 
+
+Sen j‰lkeen ohjelman p‰‰valikko aukeaa. Ohjelmassa navigointi tapahtuu kirjainvalinnoilla: 
+
+[k] N‰yt‰ kaikki elokuvat //Tulostaa kaikki elokuvat vuokraElokuvat listalta
+[v] Vuokraa elokuva //Vuokrauksen j‰lkeen oliolle asetetaan palautusp‰iv‰ (nykyinen p‰iv‰ + 3), ja (vuokrattavissa = false) 
+[p] Palauta elokuva // Asettaa (vuokrattavissa=true)
+[m] P‰‰valikko // Tulostaa p‰‰valikon
+[t] Tallenna elokuvat tiedostoon // Tallentaa kaikki elokuvat \bin\debug\backup.txt
+[q] Lopetus // Sulkee ohjelman
+
+
+
